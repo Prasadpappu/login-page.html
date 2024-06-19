@@ -1,0 +1,37 @@
+
+.bg-container {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/07/14/66/28/1000_F_714662823_hUk7Oo5tZ3YAfWSgI0c3Bbgcfv74rglT.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.login-container {
+    background-color: rgb(81, 138, 196);
+    height: 200px;
+    width: 330px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: cadetblue;
+
+    text-align: center;
+
+
+}
+
+.para {
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.button {
+    color: white;
+    background-color: rgb(9, 208, 239);
+    border-radius: 10px;
+    border-color: beige;
+    border-style: solid;
+    height: 35px;
+    width: 90px;
+    text-align: center;
+}
